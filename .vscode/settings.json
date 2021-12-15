@@ -1,8 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "001"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true,
-    "editor.fontSize": 24,
-}
