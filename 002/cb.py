@@ -18,6 +18,16 @@ print(lima_puluh4)
 niai_Saya8 = 8 
 print(niai_Saya8)
 
+#ganti nilai variabel
+
+nilai_nama = 8
+lima_puluh4 = "lima puluh empat"
+nilai_Saya8 = "delapan"
+print(nilai_nama)
+print(lima_puluh4)
+print(nilai_Saya8)
+
+
 
 
 
